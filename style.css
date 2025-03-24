@@ -16,10 +16,11 @@ html, body {
 
 #character-bar {
   height: 15vh;
-  background: rgb(49, 109, 179);
+  background: black;
   display: flex;
   justify-content: space-around;
   align-items: center;
+  color: white;
   padding-bottom: 3vh;
 }
 
